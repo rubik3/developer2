@@ -6,3 +6,4 @@ create table TABLAENDE2
   fecha_nac   date,
   CONSTRAINT cp_tablaende PRIMARY KEY (num)
  )
+/
